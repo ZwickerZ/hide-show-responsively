@@ -24,6 +24,7 @@ img {
   display: block;
   width: 100%;
 }
+
 @media only screen and (max-width: 25em) {
 
   img:nth-of-type(2), img:nth-of-type(4)  {
